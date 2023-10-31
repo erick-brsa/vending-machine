@@ -1,0 +1,15 @@
+1,10,101,Cheetos
+2,8,102,Fritos
+1,15,103,Rufles
+2,12,104,Churrumais
+1,9,106,Doritos
+1,11,107,Pringles
+2,13,108,Mantecadas
+2,6,109,Gansito
+1,15,110,Negrito
+1,9,111,Kit-Kat
+2,7,113,Snickers
+1,10,114,Wilky-Way
+1,10,115,Coca-Cola
+1,10,116,Squirt
+2,8,117,Lipton
